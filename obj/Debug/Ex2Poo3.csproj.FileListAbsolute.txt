@@ -1,0 +1,8 @@
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\bin\Debug\Ex2Poo3.exe.config
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\bin\Debug\Ex2Poo3.exe
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\bin\Debug\Ex2Poo3.pdb
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\obj\Debug\Ex2Poo3.csproj.AssemblyReference.cache
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\obj\Debug\Ex2Poo3.csproj.SuggestedBindingRedirects.cache
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\obj\Debug\Ex2Poo3.csproj.CoreCompileInputs.cache
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\obj\Debug\Ex2Poo3.exe
+C:\ExerciciosPOO\Ex2Poo3\Ex2Poo3\obj\Debug\Ex2Poo3.pdb
